@@ -1,0 +1,29 @@
+_repo: The-principles-and-objects-of-geology-with-special-reference-to-the-geology-of-Egypt_73557
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hume, William Fraser
+    gutenberg_agent_id: '57117'
+    url: http://www.gutenberg.org/2009/agents/57117
+description: ''
+gutenberg_issued: '2024-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73557'
+language: en
+pgterms:marc904: https://archive.org/details/principlesobject00egypuoft
+pgterms:marc905: 20240423223814hume
+pgterms:marc906: '1911'
+pgterms:marc907: EG
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by The Internet Archive/Univ. of Toronto/Gerstein Science Information
+  Centre)
+publication_note: '  $aCairo :$bNational Printing Department, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The principles and objects of geology, with special reference to the geology
+  of Egypt
+url: http://www.gutenberg.org/ebooks/73557
